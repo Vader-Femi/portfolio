@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://vader-femi.github.io/gatsby-theme-portfolio-minimal/sitemap-index.xml
+Sitemap: https://vader-femi.github.io/portfolio/sitemap-index.xml
 Host: https://vader-femi.github.io

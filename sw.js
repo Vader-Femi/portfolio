@@ -27,24 +27,24 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-a295ed3daf62d668816c.js"
+    "url": "webpack-runtime-9f00043862a242097aa6.js"
   },
   {
-    "url": "styles.29b73ede344b2b6acd23.css"
+    "url": "styles.401b2f7e95fffed46e0b.css"
   },
   {
     "url": "framework-907b46373991a9498ee1.js"
   },
   {
-    "url": "app-41bc2e81dd8a91045faa.js"
+    "url": "app-356612dfa67bc8119515.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "4cf409fef1428df0c30fd1cda0558277"
+    "revision": "73f16ebfd81d79d04b43600b5dcaa483"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "9d807bd444ca993c4f382aca744088ec"
+    "revision": "19bc01e748cd01809dec2b58eb17e24a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -149,12 +149,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/gatsby-theme-portfolio-minimal`), ``)
+  pathname = pathname.replace(new RegExp(`^/portfolio`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/gatsby-theme-portfolio-minimal/app-41bc2e81dd8a91045faa.js`))) {
+  if (!resources || !(await caches.match(`/portfolio/app-356612dfa67bc8119515.js`))) {
     return await fetch(event.request)
   }
 
@@ -167,7 +167,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/gatsby-theme-portfolio-minimal/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/portfolio/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
