@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_theme_portfolio_minimal=self.webpackChunkgatsby_theme_portfolio_minimal||[]).push([[683],{3598:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var i=n(7294),l=n(9159);function r(){return i.createElement(i.Fragment,null,i.createElement(l.pQ,{title:"Imprint",useTitleTemplate:!0,noIndex:!0}),i.createElement(l.T3,null,i.createElement(l.Ek,{sectionId:"imprint",heading:"Imprint"})))}}}]);
-//# sourceMappingURL=component---src-pages-imprint-js-794de0b771cdecfccde6.js.map
