@@ -34,7 +34,7 @@ rel="nofollow noopener noreferrer" aria-label="Live Demo"><u>Live Demo 🚀</u><
    gatsby new portfolio-minimal https://github.com/Vader-Femi/portfolio
    ```
 
-3. Once installed, you can begin developing your site.
+3. Once installed, you can begin developing the site.
 
    ```sh
    cd portfolio-minimal
