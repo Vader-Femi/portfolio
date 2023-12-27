@@ -1,6 +1,6 @@
 {
-  "homepage": "https://vader-femi.github.io/portfolio",
-  "name": "portfolio",
+  "homepage": "https://vader-femi.github.io/gatsby-theme-portfolio-minimal",
+  "name": "gatsby-theme-portfolio-minimal",
   "version": "0.66",
   "description": "My Portfolio made with Gatsby Portfolio Minimal template.",
   "scripts": {
@@ -21,10 +21,10 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "starter-name": "portfolio",
+  "starter-name": "gatsby-theme-portfolio-minimal",
   "repository": {
     "type": "git",
-    "url": "https://vader-femi.github.io/portfolio"
+    "url": "https://vader-femi.github.io/gatsby-theme-portfolio-minimal"
   },
   "keywords": [
     "react",
