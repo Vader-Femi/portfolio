@@ -30,7 +30,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "My Résumé",
-        "url": "https://drive.google.com/file/d/1F0B0tOWmNWgtMU7_VeJ6cNpA3nIYkhso/view?usp=drivesdk"
+        "url": "https://drive.google.com/file/d/1F0B0tOWmNWgtMU7_VeJ6cNpA3nIYkhso/view?usp=drive_link"
       },
       "footer": [
         { "label": "", "url": "/privacy" },

@@ -9,4 +9,4 @@ I have been coding professional for a year now and I graduated with a BSc in Com
 
 Finally I am a hard worker and I am eager to learn. I am always willing to go the extra mile, and I am always looking for new ways to improve my skills. :)
 
-<a href="https://drive.google.com/file/d/1F0B0tOWmNWgtMU7_VeJ6cNpA3nIYkhso/view?usp=drivesdk" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>My Résumé</u></a>
+<a href="https://drive.google.com/file/d/1F0B0tOWmNWgtMU7_VeJ6cNpA3nIYkhso/view?usp=drive_link" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>My Résumé</u></a>
