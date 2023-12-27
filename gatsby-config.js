@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/gatsby-theme-portfolio-minimal",
+  pathPrefix: "/portfolio",
   plugins: [
     'gatsby-plugin-postcss',
     {
