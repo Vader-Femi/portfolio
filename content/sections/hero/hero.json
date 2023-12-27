@@ -1,0 +1,22 @@
+{
+  "intro": "Hello There",
+  "heroPhoto": {
+    "src": "../../images/me.jpg",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Hand Waving Image"
+  },
+  "title": "",
+  "subtitle": {
+    "prefix": "I'm ",
+    "highlight": "Oluwafemi ",
+    "suffix": "Okedeyi"
+  },
+  "description": "I develop for Android and Wear Os.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Twitter", "Github", "Mail"],
+    "showIcons": true
+  }
+}

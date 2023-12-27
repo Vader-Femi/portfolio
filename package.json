@@ -1,0 +1,48 @@
+{
+  "homepage": "https://vader-femi.github.io/gatsby-theme-portfolio-minimal",
+  "name": "gatsby-theme-portfolio-minimal",
+  "version": "0.66",
+  "description": "My Portfolio made with Gatsby Portfolio Minimal template.",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy:ci": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/vader-femi/gatsby-theme-portfolio-minimal.git",
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^5.0.1",
+    "gatsby-theme-portfolio-minimal": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "starter-name": "gatsby-theme-portfolio-minimal",
+  "repository": {
+    "type": "git",
+    "url": "https://vader-femi.github.io/gatsby-theme-portfolio-minimal"
+  },
+  "keywords": [
+    "react",
+    "gatsby",
+    "gatsby-theme",
+    "PWA",
+    "portfolio",
+    "showcase",
+    "minimal",
+    "animations",
+    "dark-mode"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "gatsby-plugin-postcss": "^6.12.0",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.28",
+    "s": "^1.0.0",
+    "tailwindcss": "^3.3.3"
+  }
+}

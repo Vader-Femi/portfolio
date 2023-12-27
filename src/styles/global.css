@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: black;
+  width: 90%;
+  margin: 0 auto;
+  color: white;
+}
+
+.text-hero-tagline{
+  @apply font-bold sm:text-2xl md:text-[18px]
+}

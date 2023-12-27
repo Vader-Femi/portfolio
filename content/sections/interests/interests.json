@@ -1,0 +1,142 @@
+{
+  "interests": [
+    {
+      "label": "Kotlin",
+      "image": {
+        "src": "../../images/kotlin.jpg",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Android Development",
+      "image": {
+        "src": "../../images/android.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Wear OS Development",
+      "image": {
+        "src": "../../images/wear-os.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Jetpack Compose",
+      "image": {
+        "src": "../../images/android-jetpack.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Clean Architecture",
+      "image": {
+        "src": "../../images/clean-architecture.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Material Design",
+      "image": {
+        "src": "../../images/material-design.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MVVM Architecture",
+      "image": {
+        "src": "../../images/mvvm-archiecture.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MVI Architecture",
+      "image": {
+        "src": "../../images/mvi-architecture.jpg",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Dependency Injection",
+      "image": {
+        "src": "../../images/dependency-injection.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Kotlin Coroutines",
+      "image": {
+        "src": "../../images/kotlin-coroutine.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Web Sockets",
+      "image": {
+        "src": "../../images/web-sockets.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Retrofit",
+      "image": {
+        "src": "../../images/retrofit.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Ktor",
+      "image": {
+        "src": "../../images/ktor.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "../../images/java.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "RESTful APIs",
+      "image": {
+        "src": "../../images/restful-api.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Firebase",
+      "image": {
+        "src": "../../images/firebase.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/git.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Android Studio",
+      "image": {
+        "src": "../../images/android-studio.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://Vader-Femi.github.io/gatsby-theme-portfolio-minimal/",
+    "title": "My Portfolio",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "My Portfolio made with Gatsby Portfolio Minimal theme.",
+    "author": "My Portfolio",
+    "avatar": "../content/images/me.png",
+    "bio": "I will be a welcome addition to any team.",
+    "social": {
+      "twitter": "https://twitter.com/FemiOkedeyi",
+      "medium": "https://konstantinmuenster.medium.com",
+      "github": "https://github.com/Vader-Femi",
+      "linkedin": "https://www.linkedin.com/in/oluwafemi-okedeyi/",
+      "mail": "mailto:oluwafemi.za@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { 
+      "text": "My Portfolio"
+    },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Experiences", "url": "/#experiences" },
+        { "label": "</Projects>", "url": "/#projects" },
+        { "label": "Contact Me", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "My Résumé",
+        "url": "https://drive.google.com/file/d/1F0B0tOWmNWgtMU7_VeJ6cNpA3nIYkhso/view?usp=drivesdk"
+      },
+      "footer": [
+        { "label": "", "url": "/privacy" },
+        { "label": "", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

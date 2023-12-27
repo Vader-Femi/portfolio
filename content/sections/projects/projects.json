@@ -1,0 +1,97 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🧰 Android",
+      "title": "Class Konnect",
+      "description": "An Android video call app made using Jitsi Meet SDK to improve E-Learning in educational institutions. It can connects up to 75 participants/students learning synchronously from a live video conferencing lecture. It is a free alternative to schools with a maximum capacity of 75 participants per class.",
+      "tags": ["Jetpack Compose", "Jitsi Meet SDK", "Firebase", "Dagger-Hilt", "Material 3 Design"],
+      "image": {
+        "src": "../../images/class-konnect.png",
+        "alt": "Class Konnect",
+        "linkTo": "https://appetize.io/app/xrbg72g6pdiaaemtcibupyyx3i?device=pixel7&osVersion=13.0&scale=75"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vader-Femi/Class-Konnect"
+        },
+        {
+          "type": "external",
+          "url": "https://appetize.io/app/xrbg72g6pdiaaemtcibupyyx3i?device=pixel7&osVersion=13.0&scale=75"
+        }
+      ]
+    },
+   {
+      "visible": true,
+      "category": "⌚🧰 Wear Os and Android",
+      "title": "Devfesttttt",
+      "description": "A wear Os verion of the devfest 2022 mobile app. It is a multi-module application that connects and transfers data between the paired Android and Wear os devices. It Displays the agenda, program sessions, and speakers details for the Devfest event.",
+      "tags": ["Jetpack Compose", "Room Database", "Wear Os", "Dagger-Hilt"],
+      "image": {
+        "src": "../../images/devfesttttt2.jpg",
+        "alt": "Devfesttttt",
+        "linkTo": "https://www.figma.com/file/y8xymmhonOeNQBj7P9Dfll?node-id=109:4533&comments-enabled=1&viewer=1"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vader-Femi/Devfesttttt"
+        },
+        {
+          "type": "external",
+          "url": "https://www.figma.com/file/y8xymmhonOeNQBj7P9Dfll?node-id=109:4533&comments-enabled=1&viewer=1"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Android",
+      "title": "Bill Reminder",
+      "description": "A Reminder app that saves paid and unpaid bill along with their details in a local room database. It uses Alarm Manager and Notification Manager to send reminder notifications for unpaid bills in due time. It complise with Material design guidelines.",
+      "tags": ["Alarm Manager", "Notification Manager", "Material Design", "Room Database"],
+      "image": {
+        "src": "../../images/bill-reminder.png",
+        "alt": "Bill Reminder",
+        "linkTo": "https://appetize.io/app/zamspmfniqj244yxgs2jpsdma4?device=pixel7&osVersion=13.0&scale=75"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vader-Femi/Bill-Reminder"
+        },
+        {
+          "type": "external",
+          "url": "https://appetize.io/app/zamspmfniqj244yxgs2jpsdma4?device=pixel7&osVersion=13.0&scale=75"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Android",
+      "title": "2FA",
+      "description": "An authentication android app that generates Time-Based One-Time-Passwords for online authentication. It was developed using Kotlin, Room database, Jetpack Datastore, and Base32 for encoding and decoding. It leverages github actions for CI/CD and generate an apk artifacts on push.",
+      "tags": ["Base32 Encryption & Decryption", "CI/CD", "Jetpack Datastore", "Material Design"],
+      "image": {
+        "src": "../../images/2fa.png",
+        "alt": "2FA",
+        "linkTo": "https://appetize.io/app/kb3hfjs3s5g5nrehn4wwx5vlz4?device=pixel7&osVersion=13.0&scale=75"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vader-Femi/2FA"
+        },
+        {
+          "type": "external",
+          "url": "https://appetize.io/app/kb3hfjs3s5g5nrehn4wwx5vlz4?device=pixel7&osVersion=13.0&scale=75"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit My Github Page",
+    "url": "https://github.com/Vader-Femi"
+  }
+}

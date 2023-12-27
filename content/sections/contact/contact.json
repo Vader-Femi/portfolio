@@ -1,0 +1,13 @@
+{
+  "name": "Send me a mail",
+  "email": "oluwafemi.za@gmail.com",
+  "description": "If you are interested in hiring me",
+  "image": {
+    "src": "../../images/message.png",
+    "alt": "Website Icon"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Twitter", "Github"],
+    "showIcons": true
+  }
+}
