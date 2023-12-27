@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://Vader-Femi.github.io/portfolio/",
+    "siteUrl": "https://Vader-Femi.github.io/gatsby-theme-portfolio-minimal/",
     "title": "My Portfolio",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "My Portfolio made with Gatsby Portfolio Minimal theme.",
