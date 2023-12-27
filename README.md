@@ -16,7 +16,7 @@ rel="nofollow noopener noreferrer" aria-label="Live Demo"><u>Live Demo 🚀</u><
 
 #### The Favicon (Personal Logo) was inspired by vecteezy
 
-<a href="https://www.vecteezy.com/free-vector/f-logo">F Logo Vectors by Vecteezy</a>
+<a href="https://www.vecteezy.com/vector-art/2442856-f-letter-logo-template-vector-initials-sign">F Logo Vectors by Vecteezy</a>
 
 ---
 
