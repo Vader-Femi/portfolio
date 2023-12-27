@@ -1,6 +1,6 @@
 <img src="screenshot.png" alt="My Portfolio Screenshot" width="700" />
 
-<a href="https://vader-femi.github.io/gatsby-theme-portfolio-minimal/" target="_blank"
+<a href="https://vader-femi.github.io/portfolio/" target="_blank"
 rel="nofollow noopener noreferrer" aria-label="Live Demo"><u>Live Demo 🚀</u></a>
 
 
@@ -31,7 +31,7 @@ rel="nofollow noopener noreferrer" aria-label="Live Demo"><u>Live Demo 🚀</u><
 2. Create a new Gatsby site with the Portfolio.
 
    ```sh
-   gatsby new portfolio-minimal https://github.com/Vader-Femi/gatsby-theme-portfolio-minimal
+   gatsby new portfolio-minimal https://github.com/Vader-Femi/portfolio
    ```
 
 3. Once installed, you can begin developing your site.

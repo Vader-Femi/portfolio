@@ -5,7 +5,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://vader-femi.github.io/gatsby-theme-portfolio-minimal/", // Used for sitemap generation
+        siteUrl: "https://vader-femi.github.io/portfolio/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
           siteName: "My Minimal Portfolio", // Used in manifest.json
