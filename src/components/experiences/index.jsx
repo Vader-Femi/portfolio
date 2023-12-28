@@ -9,8 +9,8 @@ const Experiences = () => {
             roleType: "Internship",
             duration:"January 2022 – October 2022",
             highlights: [
-                "Improved an Android application for making loan requests and repayments using Paystack Api with over 2x the speed of the company’s previous app",
-                "Introduced the Model-View-ViewModel (MVVM) architecture and Kotlin coroutines across the codebase improving the performance, user experience, scalability, and code readability of the Android app",
+                "Improved an Android application for making loan requests and repayments using Paystack Api by over 2x the speed of the company’s previous app",
+                "Introduced MVVM architecture and Kotlin coroutines across the codebase improving the performance, user experience, scalability, and code readability of the Android app",
                 "Setup a helpdesk software to improve customer service experience by up to 66%"
             ],
         },
