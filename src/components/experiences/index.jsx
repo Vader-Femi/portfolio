@@ -13,6 +13,17 @@ const Experiences = () => {
                 "Introduced the Model-View-ViewModel (MVVM) architecture and Kotlin coroutines across the codebase improving the performance, user experience, scalability, and code readability of the Android app",
                 "Setup a helpdesk software to improve customer service experience by up to 66%"
             ],
+        },
+        {
+            company: "Osun State University",
+            role: "NYSC Corper",
+            roleType: "Full-Time",
+            duration:"August 2023 – Till date",
+            highlights: [
+                "Facilitated practical sessions for 1000+ students in Java, web development, and C++",
+                "Provided support and guidance during hands-on exercises and projects",
+                "Collaborated with lecturers and students to enhance their understanding of practical aspects related to programming languages"
+            ],
         }
     ]
     const [active, setActive] = useState(data[0].company);
