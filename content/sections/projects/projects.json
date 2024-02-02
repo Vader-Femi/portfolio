@@ -26,7 +26,7 @@
       "visible": true,
       "category": "🧰 Android",
       "title": "Class Konnect",
-      "description": "An Android video call app made using Jitsi Meet SDK to improve E-Learning in educational institutions. It can connects up to 75 participants/students learning synchronously from a live video conferencing lecture. It is a free alternative to schools with a maximum capacity of 75 participants per class.",
+      "description": "An Android video call app made using Jitsi Meet SDK to improve E-Learning in educational institutions. It can connects up to 75 participants / students learning synchronously from a live video conferencing lecture. It is a free alternative to schools with a maximum capacity of 75 participants per class.",
       "tags": ["Jetpack Compose", "Jitsi Meet SDK", "Firebase", "Dagger-Hilt", "Material 3 Design"],
       "image": {
         "src": "../../images/class-konnect.png",

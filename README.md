@@ -45,6 +45,9 @@ rel="nofollow noopener noreferrer" aria-label="Live Demo"><u>Live Demo 🚀</u><
 
 #### Updating the Resume
 
-- To update the Résumé, update it in both the about.md and settings.json files in content folder.
+- To update the Résumé, update the resume links in the
+* about.md and
+* settings.json 
+files in content folder.
 
 ---
