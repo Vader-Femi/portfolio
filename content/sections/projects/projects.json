@@ -3,6 +3,28 @@
     {
       "visible": true,
       "category": "🧰 Android",
+      "title": "Watchlist",
+      "description": "Watchlist is a movie and tv series database for getting the latest information about trending or specific movies. You can add a movie or tv series to your favourite and reference it later.",
+      "tags": ["Jetpack Compose", "TMDB API", "Retrofit", "Firebase", "Dagger-Hilt", "Material 3 Design", "MVI Architecture"],
+      "image": {
+        "src": "../../images/watchlist.png",
+        "alt": "Watchlist",
+        "linkTo": "https://appetize.io/app/rz2scysw7s6sytetrycafienu4?device=pixel7&osVersion=13.0&scale=75"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vader-Femi/Watchlist"
+        },
+        {
+          "type": "external",
+          "url": "https://appetize.io/app/rz2scysw7s6sytetrycafienu4?device=pixel7&osVersion=13.0&scale=75"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Android",
       "title": "Class Konnect",
       "description": "An Android video call app made using Jitsi Meet SDK to improve E-Learning in educational institutions. It can connects up to 75 participants/students learning synchronously from a live video conferencing lecture. It is a free alternative to schools with a maximum capacity of 75 participants per class.",
       "tags": ["Jetpack Compose", "Jitsi Meet SDK", "Firebase", "Dagger-Hilt", "Material 3 Design"],
