@@ -4,7 +4,7 @@
   "description": " Call me: +234-815-7957-964",
   "image": {
     "src": "../../images/message.png",
-    "alt": "Website Icon"
+    "alt": "Email Icon"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Twitter", "Github"],
