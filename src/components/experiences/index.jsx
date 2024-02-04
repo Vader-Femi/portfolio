@@ -4,25 +4,24 @@ import {Section, Animation } from 'gatsby-theme-portfolio-minimal';
 const Experiences = () => {
     const data = [
         {
+            company: "Osun State University",
+            role: "Laboratory Practical Assistant",
+            roleType: "Full-Time",
+            duration:"August 2023 – Till date",
+            highlights: [
+                "Facilitated weekly hands-on practical sessions for over 500 students in Java, web development, and C",
+                "Collaborated with lecturers and students on practical programming language concepts, resulting in a more profound comprehension of the subject matter"
+            ],
+        },
+        {
             company: "Arkounting Business Concepts",
             role: "Android Developer",
             roleType: "Internship",
             duration:"January 2022 – October 2022",
             highlights: [
-                "Improved an Android application for making loan requests and repayments using Kotlin and Paystack Api by over 2x the speed of the company’s previous app",
-                "Introduced MVVM architecture and Kotlin coroutines across the codebase improving the performance, user experience, scalability, and code readability of the Android app",
+                "Revamped an Android application for making loan requests and repayments using Kotlin and Paystack Api boosting app launch and interaction speed by over 50%",
+                "Elevated app performance and user experience by applying MVVM architecture guidelines and Kotlin coroutines, leading to a 20% increase in scalability and notable improvements in code readability",
                 "Setup a helpdesk software to improve customer service experience by up to 66%"
-            ],
-        },
-        {
-            company: "Osun State University",
-            role: "NYSC Corper",
-            roleType: "Full-Time",
-            duration:"August 2023 – Till date",
-            highlights: [
-                "Facilitated practical sessions for 1000+ students in Java, web development, and C++",
-                "Provided support and guidance during hands-on exercises and projects",
-                "Collaborated with lecturers and students to enhance their understanding of practical aspects related to programming languages"
             ],
         }
     ]

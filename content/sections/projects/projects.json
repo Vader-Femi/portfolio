@@ -4,7 +4,7 @@
       "visible": true,
       "category": "🧰 Android",
       "title": "Watchlist",
-      "description": "Watchlist is a movie and tv series database for getting the latest information about trending or specific movies. You can add a movie or tv series to your favourite and reference it later.",
+      "description": "Watchlist is an Android application leveraging TMDB API, to offer access to an ever-increasing database of over 2 million movies and TV series, and integrating an efficient paginated search and favourites management feature. It also Implements a visually pleasing UI using Jetpack Compose, adhering to Material 3 Design principles, improving user engagement",
       "tags": ["Jetpack Compose", "TMDB API", "Retrofit", "Firebase", "Dagger-Hilt", "Material 3 Design", "MVI Architecture"],
       "image": {
         "src": "../../images/watchlist.png",
@@ -24,28 +24,6 @@
     },
     {
       "visible": true,
-      "category": "🧰 Android",
-      "title": "Class Konnect",
-      "description": "An Android video call app made using Jitsi Meet SDK to improve E-Learning in educational institutions. It can connects up to 75 participants / students learning synchronously from a live video conferencing lecture. It is a free alternative to schools with a maximum capacity of 75 participants per class.",
-      "tags": ["Jetpack Compose", "Jitsi Meet SDK", "Firebase", "Dagger-Hilt", "Material 3 Design"],
-      "image": {
-        "src": "../../images/class-konnect.png",
-        "alt": "Class Konnect",
-        "linkTo": "https://appetize.io/app/xrbg72g6pdiaaemtcibupyyx3i?device=pixel7&osVersion=13.0&scale=75"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Vader-Femi/Class-Konnect"
-        },
-        {
-          "type": "external",
-          "url": "https://appetize.io/app/xrbg72g6pdiaaemtcibupyyx3i?device=pixel7&osVersion=13.0&scale=75"
-        }
-      ]
-    },
-   {
-      "visible": true,
       "category": "⌚🧰 Wear Os and Android",
       "title": "Devfesttttt",
       "description": "A wear Os verion of the devfest 2022 mobile app. It is a multi-module application that connects and transfers data between the paired Android and Wear os devices. It Displays the agenda, program sessions, and speakers details for the Devfest event.",
@@ -63,6 +41,28 @@
         {
           "type": "external",
           "url": "https://www.figma.com/file/y8xymmhonOeNQBj7P9Dfll?node-id=109:4533&comments-enabled=1&viewer=1"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Android",
+      "title": "Class Konnect",
+      "description": "An Android video call app made using Jitsi Meet SDK to improve E-Learning in educational institutions. It can connects up to 75 participants / students learning synchronously from a live video conferencing lecture for free.",
+      "tags": ["Jetpack Compose", "Jitsi Meet SDK", "Firebase", "Dagger-Hilt", "Material 3 Design"],
+      "image": {
+        "src": "../../images/class-konnect.png",
+        "alt": "Class Konnect",
+        "linkTo": "https://appetize.io/app/xrbg72g6pdiaaemtcibupyyx3i?device=pixel7&osVersion=13.0&scale=75"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vader-Femi/Class-Konnect"
+        },
+        {
+          "type": "external",
+          "url": "https://appetize.io/app/xrbg72g6pdiaaemtcibupyyx3i?device=pixel7&osVersion=13.0&scale=75"
         }
       ]
     },
