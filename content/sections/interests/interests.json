@@ -15,6 +15,20 @@
       }
     },
     {
+      "label": "Jetpack Compose",
+      "image": {
+        "src": "../../images/android-jetpack.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Flutter",
+      "image": {
+        "src": "../../images/flutter.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Wear OS Development",
       "image": {
         "src": "../../images/wear-os.png",
@@ -22,9 +36,9 @@
       }
     },
     {
-      "label": "Jetpack Compose",
+      "label": "Dart",
       "image": {
-        "src": "../../images/android-jetpack.png",
+        "src": "../../images/dart.png",
         "alt": ""
       }
     },
