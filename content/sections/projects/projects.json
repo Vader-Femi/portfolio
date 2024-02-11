@@ -5,7 +5,7 @@
       "category": "🧰 Android",
       "title": "Watchlist",
       "description": "Watchlist is an Android application leveraging TMDB API, to offer access to an ever-increasing database of over 2 million movies and TV series, and integrating an efficient paginated search and favourites management feature. It also Implements a visually pleasing UI using Jetpack Compose, adhering to Material 3 Design principles, improving user engagement",
-      "tags": ["Jetpack Compose", "TMDB API", "Retrofit", "Firebase", "Dagger-Hilt", "Material 3 Design", "MVI Architecture"],
+      "tags": ["Jetpack Compose", "TMDB API", "Retrofit", "Firebase", "Dagger-Hilt", "Kotlin Coroutines", "Material 3 Design", "MVI Architecture"],
       "image": {
         "src": "../../images/watchlist.png",
         "alt": "Watchlist",
