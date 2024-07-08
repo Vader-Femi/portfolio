@@ -9,7 +9,7 @@ const Experiences = () => {
             roleType: "Full-Time",
             duration:"August 2023 – Till date",
             highlights: [
-                "Facilitated weekly hands-on practical sessions for over 500 students in Java, web development, and C",
+                "Facilitated weekly hands-on practical sessions for over 1000 students in Data Structure & Algorithm, Java, Python, and C language.",
                 "Collaborated with lecturers and students on practical programming language concepts, resulting in a more profound comprehension of the subject matter"
             ],
         },
