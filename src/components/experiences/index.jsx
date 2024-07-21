@@ -14,6 +14,12 @@ const Experiences = () => {
             ],
         },
         {
+            company: "Freelance",
+            role: "Android Developer",
+            roleType: "Full-Time",
+            duration:"October 2022 – Till date",
+        },
+        {
             company: "Arkounting Business Concepts",
             role: "Android Developer",
             roleType: "Internship",
