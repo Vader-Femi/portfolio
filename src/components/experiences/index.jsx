@@ -18,6 +18,9 @@ const Experiences = () => {
             role: "Android Developer",
             roleType: "Full-Time",
             duration:"October 2022 – Till date",
+            highlights: [
+                ""
+            ]
         },
         {
             company: "Arkounting Business Concepts",
