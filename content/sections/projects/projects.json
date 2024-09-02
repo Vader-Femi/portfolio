@@ -2,6 +2,28 @@
   "projects": [
     {
       "visible": true,
+      "category": "🧰 Flutter",
+      "title": "Spotify Clone",
+      "description": "Developed a high-performance Spotify clone using Flutter, Bloc, and Firebase, showcasing expertise in mobile app development, state management, and scalable architecture.",
+      "tags": ["Flutter", "Dart", "Bloc", "Firebase", "Clean Architecture", "Music"],
+      "image": {
+        "src": "../../images/flutter.png",
+        "alt": "Spotify Clone",
+        "linkTo": "https://github.com/Vader-Femi/SpotifyClone"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vader-Femi/SpotifyClone"
+        },
+        {
+          "type": "external",
+          "url": "https://github.com/Vader-Femi/SpotifyClone"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🧰 Android",
       "title": "Watchlist",
       "description": "Watchlist is an Android application leveraging TMDB API, to offer access to an ever-increasing database of over 2 million movies and TV series, and integrating an efficient paginated search and favourites management feature. It also Implements a visually pleasing UI using Jetpack Compose, adhering to Material 3 Design principles, improving user engagement",

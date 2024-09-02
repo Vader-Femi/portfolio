@@ -7,20 +7,11 @@ const Experiences = () => {
             company: "Osun State University",
             role: "Laboratory Practical Assistant",
             roleType: "Full-Time",
-            duration:"August 2023 – Till date",
+            duration:"August 2023 – July 2024",
             highlights: [
                 "Facilitated weekly hands-on practical sessions for over 1000 students in Data Structure & Algorithm, Java, Python, and C language.",
                 "Collaborated with lecturers and students on practical programming language concepts, resulting in a more profound comprehension of the subject matter"
             ],
-        },
-        {
-            company: "Freelance",
-            role: "Android Developer",
-            roleType: "Full-Time",
-            duration:"October 2022 – Till date",
-            highlights: [
-                ""
-            ]
         },
         {
             company: "Arkounting Business Concepts",

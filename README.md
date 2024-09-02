@@ -31,13 +31,13 @@ rel="nofollow noopener noreferrer" aria-label="Live Demo"><u>Live Demo 🚀</u><
 2. Create a new Gatsby site with the Portfolio.
 
    ```sh
-   gatsby new portfolio-minimal https://github.com/Vader-Femi/portfolio
+   gatsby new portfolio https://github.com/Vader-Femi/portfolio
    ```
 
 3. Once installed, you can begin developing the site.
 
    ```sh
-   cd portfolio-minimal
+   cd portfolio
    gatsby develop
    ```
 ---
