@@ -4,10 +4,10 @@
       "visible": true,
       "category": "🧰 Flutter",
       "title": "Spotify Clone",
-      "description": "Developed a high-performance Spotify clone using Flutter, Bloc, and Firebase, showcasing expertise in mobile app development, state management, and scalable architecture.",
-      "tags": ["Flutter", "Dart", "Bloc", "Firebase", "Clean Architecture", "Music"],
+      "description": "Developed a clone of the Spotify music streaming application using Flutter, Bloc, and Firebase for authentication and storage for the songs, showcasing expertise in cross-platform mobile app development, state management, and scalable architecture.",
+      "tags": ["Flutter", "Dart", "Bloc", "Firebase", "Clean Architecture", "Music", "Spotify"],
       "image": {
-        "src": "../../images/flutter.png",
+        "src": "../../images/spotify.png",
         "alt": "Spotify Clone",
         "linkTo": "https://github.com/Vader-Femi/SpotifyClone"
       },
@@ -18,7 +18,7 @@
         },
         {
           "type": "external",
-          "url": "https://github.com/Vader-Femi/SpotifyClone"
+          "url": "https://appetize.io/app/b_zkqosllrzcphoo5m4psj7hfvpm"
         }
       ]
     },

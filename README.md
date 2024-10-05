@@ -49,5 +49,5 @@ rel="nofollow noopener noreferrer" aria-label="Live Demo"><u>Live Demo 🚀</u><
 * about.md and
 * settings.json 
 files in content folder.
-
+then run ```gatsby develop```
 ---
