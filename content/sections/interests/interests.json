@@ -1,6 +1,20 @@
 {
   "interests": [
     {
+      "label": "Flutter",
+      "image": {
+        "src": "../../images/flutter.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Dart",
+      "image": {
+        "src": "../../images/dart.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Kotlin",
       "image": {
         "src": "../../images/kotlin.jpg",
@@ -22,23 +36,9 @@
       }
     },
     {
-      "label": "Flutter",
-      "image": {
-        "src": "../../images/flutter.png",
-        "alt": ""
-      }
-    },
-    {
       "label": "Wear OS Development",
       "image": {
         "src": "../../images/wear-os.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Dart",
-      "image": {
-        "src": "../../images/dart.png",
         "alt": ""
       }
     },
