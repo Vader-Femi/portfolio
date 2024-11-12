@@ -21,8 +21,8 @@ export default function IndexPage() {
         <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="skills" heading="Skills" />
         <ExperiencesSection sectionId="experiences" heading="Experiences" />
-        <EducationSection sectionId="education" heading="Education" />
         <ProjectsSection sectionId="projects" heading="Projects" />
+        <EducationSection sectionId="education" heading="Education" />
         <ContactSection sectionId="contact" heading="Contact Me" />
       </Page>
     </>

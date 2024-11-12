@@ -3,25 +3,26 @@
     {
       "visible": true,
       "category": "🧰 Flutter",
-      "title": "Spotify Clone",
-      "description": "Developed a clone of the Spotify music streaming application using Flutter, Bloc, and Firebase for authentication and storage for the songs, showcasing expertise in cross-platform mobile app development, state management, and scalable architecture.",
-      "tags": ["Flutter", "Dart", "Bloc", "Firebase", "Clean Architecture", "Music", "Spotify"],
+      "title": "Habitar",
+      "description": "A habit-tracking app using Flutter, integrating Bloc, Hydrated Bloc, and Flutter Super for robust state management. Applied clean architecture principles to ensure clear feature separation. Leveraged Firebase for authentication and data storage, enabling secure, scalable access. Incorporated push notifications to remind users of their goals based on customized parameters, promoting habit consistency across Android and iOS platforms.",
+      "tags": ["Flutter", "Dart", "Bloc", "Flutter Super","Firebase", "Clean Architecture", "Notifications", "Habit Manager"],
       "image": {
-        "src": "../../images/spotify.png",
-        "alt": "Spotify Clone",
-        "linkTo": "https://appetize.io/app/b_zkqosllrzcphoo5m4psj7hfvpm"
+        "src": "../../images/dart.png",
+        "alt": "Habitar",
+        "linkTo": "https://github.com/Vader-Femi/Habitar"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/Vader-Femi/SpotifyClone"
+          "url": "https://github.com/Vader-Femi/Habitar"
         },
         {
           "type": "external",
-          "url": "https://appetize.io/app/b_zkqosllrzcphoo5m4psj7hfvpm"
+          "url": "https://github.com/Vader-Femi/Habitar"
         }
       ]
     },
+    
     {
       "visible": true,
       "category": "🧰 Android",
