@@ -4,10 +4,10 @@
       "visible": true,
       "category": "🧰 Flutter",
       "title": "Habitar",
-      "description": "A habit-tracking app using Flutter, integrating Bloc, Hydrated Bloc, and Flutter Super for robust state management. Applied clean architecture principles to ensure clear feature separation. Leveraged Firebase for authentication and data storage, enabling secure, scalable access. Incorporated push notifications to remind users of their goals based on customized parameters, promoting habit consistency across Android and iOS platforms.",
-      "tags": ["Flutter", "Dart", "Bloc", "Flutter Super","Firebase", "Clean Architecture", "Notifications", "Habit Manager"],
+      "description": "A habit-tracking app using Flutter, integrating Bloc and Flutter Super for robust state management. Applied clean architecture principles to ensure clear feature separation. Leveraged Firebase for authentication and remote data storage, enabling secure, scalable access. Incorporated Flutter Drift database to store habits locally, ensuring the app works seamlessly offline. Implemented push notifications to remind users of their goals based on customized parameters, promoting habit consistency across Android, iOS, windows, and linux.",
+      "tags": ["Flutter", "Dart", "Bloc", "Flutter Super","Firebase","Drift Database", "Clean Architecture", "Local Notifications", "Hydrated Bloc"],
       "image": {
-        "src": "../../images/dart.png",
+        "src": "../../images/habitar.png",
         "alt": "Habitar",
         "linkTo": "https://github.com/Vader-Femi/Habitar"
       },
@@ -30,7 +30,7 @@
       "description": "Watchlist is an Android application leveraging TMDB API, to offer access to an ever-increasing database of over 2 million movies and TV series, and integrating an efficient paginated search and favourites management feature. It also Implements a visually pleasing UI using Jetpack Compose, adhering to Material 3 Design principles, improving user engagement",
       "tags": ["Jetpack Compose", "TMDB API", "Retrofit", "Firebase", "Dagger-Hilt", "Kotlin Coroutines", "Material 3 Design", "MVI Architecture"],
       "image": {
-        "src": "../../images/watchlist.png",
+        "src": "../../images/watchlist2.png",
         "alt": "Watchlist",
         "linkTo": "https://appetize.io/app/rz2scysw7s6sytetrycafienu4?device=pixel7&osVersion=13.0&scale=75"
       },

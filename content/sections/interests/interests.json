@@ -134,6 +134,13 @@
       }
     },
     {
+      "label": "Bloc",
+      "image": {
+        "src": "../../images/bloc.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Git",
       "image": {
         "src": "../../images/git.png",
