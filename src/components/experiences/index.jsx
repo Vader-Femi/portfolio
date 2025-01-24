@@ -5,7 +5,7 @@ const Experiences = () => {
     const data = [
         {
             company: "Osun State University",
-            role: "Laboratory Practical Assistant",
+            role: "Software Development Trainer",
             roleType: "Full-Time",
             duration:"August 2023 – July 2024",
             highlights: [
