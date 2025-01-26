@@ -1,7 +1,14 @@
-<svg width="13500" height="12000" viewBox="0 0 13500 12000" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8250 5000L7250 4000L9250 4000L8250 5000Z" fill="#756EC8"/>
-<path d="M5250 5000L4250 6000L4250 4000L5250 5000Z" fill="#756EC8"/>
-<path d="M5250 7000L4250 8000L4250 6000L5250 7000Z" fill="#756EC8"/>
-<path d="M6500 6750L5750 6000L7250 6000L6500 6750Z" fill="#756EC8"/>
-<rect x="4250" y="4000" width="4000" height="1000" fill="#756EC8"/>
+<svg width="5000" height="4185" viewBox="0 0 5000 4185" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_18_7)">
+<path d="M4000 1000L3000 -6.10352e-05L5000 -6.10352e-05L4000 1000Z" fill="#756EC8"/>
+<path d="M1000 1000L-6.10352e-05 2000L-6.10352e-05 0L1000 1000Z" fill="#756EC8"/>
+<path d="M1000 3185L-6.10352e-05 4185L-6.10352e-05 2185L1000 3185Z" fill="#756EC8"/>
+<path d="M2250 2750L1500 2000L3000 2000L2250 2750Z" fill="#756EC8"/>
+<rect width="4000" height="1000" fill="#756EC8"/>
+</g>
+<defs>
+<clipPath id="clip0_18_7">
+<rect width="5000" height="4185" fill="white"/>
+</clipPath>
+</defs>
 </svg>
