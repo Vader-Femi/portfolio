@@ -4,7 +4,7 @@
       "visible": true,
       "category": "🧰 Flutter",
       "title": "Petit",
-      "description": "A cross-platform Flutter application capable of compressing images in various formats, like HEIC, HEIF, PNG, and JPG, for efficient storage and faster file transfers without compromising quality",
+      "description": "A cross-platform Flutter application capable of compressing images in various formats, like  JPEG, JPG, PNG, WEBP, HEIC, and HEIF, for efficient storage and faster file transfers without compromising quality",
       "tags": ["Flutter", "Dart", "Images", "Flutter Super","Compression"],
       "image": {
         "src": "../../images/flutter.png",
