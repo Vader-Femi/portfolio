@@ -9,7 +9,7 @@
       "image": {
         "src": "../../images/flutter.png",
         "alt": "Petit",
-        "linkTo": "https://github.com/Vader-Femi/Petit"
+        "linkTo": "https://appetize.io/app/b_5q7h4bxybf3vgeckafpxufi7xe?device=pixel7&osVersion=15.0"
       },
       "links": [
         {
@@ -18,7 +18,7 @@
         },
         {
           "type": "external",
-          "url": "https://github.com/Vader-Femi/Petit"
+          "url": "https://appetize.io/app/b_5q7h4bxybf3vgeckafpxufi7xe?device=pixel7&osVersion=15.0"
         }
       ]
     },
@@ -32,7 +32,7 @@
       "image": {
         "src": "../../images/habitar.png",
         "alt": "Habitar",
-        "linkTo": "https://github.com/Vader-Femi/Habitar"
+        "linkTo": "https://appetize.io/app/b_b6g3rbmshvvykreskmfo3mevdq"
       },
       "links": [
         {
@@ -41,7 +41,7 @@
         },
         {
           "type": "external",
-          "url": "https://github.com/Vader-Femi/Habitar"
+          "url": "https://appetize.io/app/b_b6g3rbmshvvykreskmfo3mevdq"
         }
       ]
     },
