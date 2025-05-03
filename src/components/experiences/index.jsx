@@ -4,19 +4,43 @@ import {Section, Animation } from 'gatsby-theme-portfolio-minimal';
 const Experiences = () => {
     const data = [
         {
+            company: "Our Days Calendar",
+            role: "Mobile App Development Intern",
+            roleType: "Full-Time",
+            duration:"March 2025 – Till Date",
+            highlights: [
+                "Contributed to a live app on the Play Store and App Store with over 10k+ downloads",
+                "Collaborated on key features, optimised app performance, and improved user interface using Flutter and state provider",
+                "Worked closely with the team to debug, test, and ship updates, enhancing user experience and retention",
+                "Contributed over 30 commits and 10+ pull requests to production code"
+            ],
+        },
+        {
+            company: "Lagos state ICT Training",
+            role: "Data Science Internship",
+            roleType: "Internship",
+            duration:"January 2025 - April 2025",
+            highlights: [
+                "Contributed to a live app on the Play Store and App Store with over 10k+ downloads",
+                "Collaborated on key features, optimised app performance, and improved user interface using Flutter and state provider",
+                "Worked closely with the team to debug, test, and ship updates, enhancing user experience and retention",
+                "Contributed over 30 commits and 10+ pull requests to production code"
+            ],
+        },
+        {
             company: "Osun State University",
             role: "Software Development Trainer",
             roleType: "Full-Time",
             duration:"August 2023 – July 2024",
             highlights: [
-                "Facilitated weekly hands-on practical sessions for over 1000 students in Data Structure & Algorithm, Java, Python, and C language.",
+                "Facilitated weekly hands-on practical sessions for over 1000 students in Data Structure & Algorithm, Java, Python, and C language",
                 "Collaborated with lecturers and students on practical programming language concepts, resulting in a more profound comprehension of the subject matter"
             ],
         },
         {
             company: "Arkounting Business Concepts",
             role: "Android Developer",
-            roleType: "Internship",
+            roleType: "     ",
             duration:"January 2022 – October 2022",
             highlights: [
                 "Revamped an Android application for making loan requests and repayments using Kotlin and Paystack Api boosting app launch and interaction speed by over 50%",
