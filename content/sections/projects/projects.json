@@ -4,10 +4,10 @@
       "visible": true,
       "category": "🧰 Flutter",
       "title": "Petit",
-      "description": "A cross-platform Flutter application capable of compressing images in various formats, like  JPEG, JPG, PNG, WEBP, HEIC, and HEIF, for efficient storage and faster file transfers without compromising quality",
+      "description": "A cross-platform compression application. It makes images smaller in size so they take up less space and send faster — without compromising quality. It works with different types of images like JPG, PNG, HEIF, and HEIC",
       "tags": ["Flutter", "Dart", "Images", "Flutter Super","Compression"],
       "image": {
-        "src": "../../images/flutter.png",
+        "src": "../../images/petit.png",
         "alt": "Petit",
         "linkTo": "https://appetize.io/app/b_5q7h4bxybf3vgeckafpxufi7xe?device=pixel7&osVersion=15.0"
       },
@@ -19,6 +19,29 @@
         {
           "type": "external",
           "url": "https://appetize.io/app/b_5q7h4bxybf3vgeckafpxufi7xe?device=pixel7&osVersion=15.0"
+        }
+      ]
+    },
+
+    {
+      "visible": true,
+      "category": "🧰 Android",
+      "title": "Watchlist",
+      "description": "Watchlist is an Android application leveraging TMDB API, to offer access to an ever-increasing database of over 2 million movies and TV series, and integrating an efficient paginated search and favourites management feature. It also Implements a visually pleasing UI using Jetpack Compose, adhering to Material 3 Design principles, improving user engagement",
+      "tags": ["Jetpack Compose", "TMDB API", "Retrofit", "Firebase", "Dagger-Hilt", "Kotlin Coroutines", "Material 3 Design", "MVI Architecture"],
+      "image": {
+        "src": "../../images/watchlist2.png",
+        "alt": "Watchlist",
+        "linkTo": "https://appetize.io/app/rz2scysw7s6sytetrycafienu4?device=pixel7&osVersion=13.0&scale=75"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Vader-Femi/Watchlist"
+        },
+        {
+          "type": "external",
+          "url": "https://appetize.io/app/rz2scysw7s6sytetrycafienu4?device=pixel7&osVersion=13.0&scale=75"
         }
       ]
     },
@@ -45,28 +68,7 @@
         }
       ]
     },
-    {
-      "visible": true,
-      "category": "🧰 Android",
-      "title": "Watchlist",
-      "description": "Watchlist is an Android application leveraging TMDB API, to offer access to an ever-increasing database of over 2 million movies and TV series, and integrating an efficient paginated search and favourites management feature. It also Implements a visually pleasing UI using Jetpack Compose, adhering to Material 3 Design principles, improving user engagement",
-      "tags": ["Jetpack Compose", "TMDB API", "Retrofit", "Firebase", "Dagger-Hilt", "Kotlin Coroutines", "Material 3 Design", "MVI Architecture"],
-      "image": {
-        "src": "../../images/watchlist2.png",
-        "alt": "Watchlist",
-        "linkTo": "https://appetize.io/app/rz2scysw7s6sytetrycafienu4?device=pixel7&osVersion=13.0&scale=75"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Vader-Femi/Watchlist"
-        },
-        {
-          "type": "external",
-          "url": "https://appetize.io/app/rz2scysw7s6sytetrycafienu4?device=pixel7&osVersion=13.0&scale=75"
-        }
-      ]
-    },
+
     {
       "visible": true,
       "category": "⌚🧰 Wear Os and Android",
