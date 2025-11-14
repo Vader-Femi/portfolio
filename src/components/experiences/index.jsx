@@ -10,10 +10,10 @@ const Experiences = () => {
             duration:"March 2025 – Till Date",
             highlights: [
                 "Contributed to a live app on the Play Store and App Store with over 10k+ downloads",
+                "Contributed over 600 commits and 120+ pull requests to production code",
                 "Improved app performance and stability, code readability, and customer satisfaction",
                 "Collaborated on key features, and improved user interface using Flutter and state provider",
-                "Worked closely with the team to debug, test, and ship updates, enhancing user experience and retention",
-                "Contributed over 100 commits and 60+ pull requests to production code"
+                "Worked closely with the team to debug, test, and ship updates, enhancing user experience and retention"
             ],
         },
         {
